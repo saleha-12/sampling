@@ -12,7 +12,6 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 
 # Author: Saleha Ejaz Qureshi
 
-```
 Analysis of Sampling in the Model
 The model simulates a scenario where infections occur at different event types (weddings and brunches) and then undergo a biased contact tracing process. The sampling happens at multiple stages:
 
