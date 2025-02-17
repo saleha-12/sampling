@@ -48,8 +48,6 @@ Effect:
 •	Running the script multiple times has now yielded the exact same histograms every time.
 •	The output doesn't match Whitby's blog post exactly but remained stable across runs.
 
-```
-
 
 ## Criteria
 
