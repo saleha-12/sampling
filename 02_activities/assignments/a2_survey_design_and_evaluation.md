@@ -145,6 +145,7 @@ Potential sources of error included non-sampling error, non-response bias, cover
  . https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4430
  . 2018 General Social Survey (Cycle 33): Giving, Volunteering and Participating Public Use Microdata File Documentation and User Guide, 2018 - ARCHIVED
 
+
 ## Rubric
 
 -	All required components are present and complete **Complete / Incomplete**
