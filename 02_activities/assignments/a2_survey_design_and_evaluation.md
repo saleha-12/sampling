@@ -40,39 +40,110 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The survey aims to understand the reasons behind the high turnover rate among entry- and lower-level employees in the company and identify changes that can improve employee satisfaction and retention.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target Population: Current and recently departed entry- and lower-level employees across various departments.
+Sampling Frame: Employee records from HR, including contact information for both active employees and those who have left within the past six months.
+Sampling Units: Individual employees who are or were in entry- or lower-level positions.
+A stratified random sampling strategy will be used to ensure representation from all departments. Employees will be randomly selected from each department proportional to the size of the department.
 ```
 
 Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+
+1. How long have you been (or were you) employed at this company?
+ . Less than 6 months
+ . 6 months to 1 year
+ . 1 to 2 years
+ . More than 2 years
+
+2. What was (or is) your primary reason for considering leaving (or leaving) the company? (Select all that apply)
+ . Low salary/benefits
+ . Better opportunities elsewhere
+ . Poor work-life balance
+ . Unsatisfactory management
+ . Lack of job security
+ . Other (please specify)
+
+ 3. Do you feel that your contributions are recognized and valued by the company?
+ . Always
+ . Often
+ . Sometimes
+ . Rarely
+ . Never
+
+ 4. Which workplace benefits or policies would make you more likely to stay at this company? (Select up to three)
+ . Higher salary
+ . More flexible work arrangements (remote/hybrid)
+ . Better career development and training
+ . Improved management and leadership
+ . Enhanced workplace culture and inclusivity
+ . Other (please specify)
+
+ 5. How likely are you to recommend this company as a great place to work to friends or family?
+ . Very Likely
+ . Likely
+ . Neutral
+ . Unlikely
+ . Very Unlikely
 
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
 
-```
-write your answer here
-```
+The Canadian General Social Survey (GSS) on Giving, Volunteering, and Participating, Cycle 33 (2018), is a comprehensive survey conducted by Statistics Canada to collect data on Canadians' charitable giving, volunteering, and civic participation. Below is a summary of the survey features:
+
+Survey Features
+1. Sample Type:
+The survey used a stratified random sampling method to ensure representation across different regions and demographic groups in Canada.
+
+2. Sample Size:
+The survey collected responses from approximately 20,000 Canadians aged 15 and older.
+
+3. Target Population:
+Individuals aged 15 and over residing in private households across Canada's ten provinces.
+
+4. Sampling Frame:
+The sampling frame was derived from the Canadian Census and included households from all provinces. Excluded groups included individuals living in institutions, on reserves, or in remote areas.
+
+5. Survey mode(s):
+The survey was conducted using both telephone interviews and an electronic questionnaire for the first time
+
+6. Timeline:
+The survey was administered from September 4, 2018, to December 28, 2018.
+
+7. Response Rate:
+The overall response rate was 41.9%.
+
+8. Weights:
+Statistics Canada applied survey weights to the data to ensure that the results were representative of the Canadian population. These weights adjusted for non-response and other sampling biases.
+
+9. Data processing:
+The data processing involved several steps, including data cleaning, imputation for missing values, and validation checks to ensure data quality
+
+10. Cleaning, imputation, etc
+Data cleaning involved removing incomplete or inconsistent responses. Imputation was used to fill in missing values for key variables, ensuring the dataset remained robust for analysis.
+
+11. Sources of Error:
+Potential sources of error included non-sampling error, non-response bias, coverage error and other non-sampling errors, such as respondent biases or data entry inaccuracies.
+
+12. Limitations, Known Biases, etc.:
+ . Exclusion of institutionalized populations, Indigenous peoples living on reserves, and remote communities.
+ . Reliance on self-reported data, which may be subject to recall bias or social desirability bias.
+ . The response rate of 41.9% may introduce non-response bias, as those who chose to participate may differ from those who did not.
+  . The introduction of an online survey format in 2018 may have influenced responses and impacted comparability with previous cycles.
+
+13. Link to documentation and any additional sources used:
+ . GSS GVP 2018 Documentation
+ . https://www150.statcan.gc.ca/n1/en/catalogue/45250011
+ . https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4430
+ . 2018 General Social Survey (Cycle 33): Giving, Volunteering and Participating Public Use Microdata File Documentation and User Guide, 2018 - ARCHIVED
 
 ## Rubric
 
