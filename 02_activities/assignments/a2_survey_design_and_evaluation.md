@@ -43,17 +43,16 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
-```
+
 The survey aims to understand the reasons behind the high turnover rate among entry- and lower-level employees in the company and identify changes that can improve employee satisfaction and retention.
-```
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
+
 Target Population: Current and recently departed entry- and lower-level employees across various departments.
 Sampling Frame: Employee records from HR, including contact information for both active employees and those who have left within the past six months.
 Sampling Units: Individual employees who are or were in entry- or lower-level positions.
 A stratified random sampling strategy will be used to ensure representation from all departments. Employees will be randomly selected from each department proportional to the size of the department.
-```
+
 
 Your 5-10 question survey:
 
@@ -92,6 +91,7 @@ Your 5-10 question survey:
  . Neutral
  . Unlikely
  . Very Unlikely
+
 
 ## Part B - Survey Evaluation:
 
